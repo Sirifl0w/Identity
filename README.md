@@ -1,6 +1,8 @@
 Identity
 ========
 
-Contact photos in message conversations - iOS 6.x
+Contact photos in message conversations.
 
-I have no idea whether this is currently available. I am aware there are paid tweaks offering similar, not sure if they support iOS 6.
+Only tested on iOS 6.x but pretty sure this also works on iOS 5.x.
+
+I have no idea whether this is currently available for free. I am aware there are paid tweaks offering similar. May not be released officially fo this reason.
