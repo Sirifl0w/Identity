@@ -2,6 +2,6 @@
 
 - (BOOL)shouldShowContactPhotos { return YES; }
 
-- (float)contactPhotoOutsideMargin { return 3; }  // shift photo to appropriate location on screen.
+- (float)contactPhotoOutsideMargin { return 3; }  // shift photo to appropriate location.
 
 %end
