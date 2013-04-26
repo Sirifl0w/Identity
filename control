@@ -3,7 +3,7 @@ Name: Identity
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Contact photos in message conversations!
+Description: Contact photos in message conversations.
 Maintainer: Sirifl0w
 Author: Sirifl0w
 Section: Tweaks
